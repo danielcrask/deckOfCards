@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+  font-size: 24px;
+}
+
+.cards {
+  padding-top: 40px;
+  width: 400px;
+  display: inline-block;
+  margin: auto;
+}
